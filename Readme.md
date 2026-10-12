@@ -1,6 +1,6 @@
-# Shopping List
+# Grocery List
 
-A simple Flutter shopping list app where you can add items, mark them as bought, delete them, and see how many items are left.
+A simple Flutter app to plan grocery shopping: add items, tick them off as you buy them, and remove what you no longer need.
 
 ## Screenshots
 

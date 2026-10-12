@@ -18,8 +18,8 @@ class ShoppingApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(colorSchemeSeed: Colors.pink),
-      home: const HomeScreen(title: 'Cart'),
+      theme: ThemeData(colorSchemeSeed: Colors.yellow),
+      home: const HomeScreen(title: 'Grocery List'),
     );
   }
 }
